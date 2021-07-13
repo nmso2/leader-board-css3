@@ -178,8 +178,12 @@ nav a {
         .players, .blogs, .courses{
             grid-template-columns: repeat(1,1fr);
         }
-        .player, .blog {
+        .player {
             flex-direction: column;
+        }
+        .blog {
+            flex-direction: column;
+            margin: 10px;
         }
         .course{
           margin: 10px;
