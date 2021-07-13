@@ -182,7 +182,7 @@ nav a {
             flex-direction: column;
         }
         .course{
-          margin-bottom: 30px;
+          margin: 10px;
         }
         nav{
             position: relative;
@@ -203,5 +203,8 @@ nav a {
     .blogs{
         grid-template-columns: repeat(1,1fr);
     }
+    .course{
+        margin: 10px;
+      }
     
 }
