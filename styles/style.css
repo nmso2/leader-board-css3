@@ -30,8 +30,7 @@ hr{
 nav {
     background-color: #562EFF;
     color: white;
-    width: 1440px;
-    height: 94px;
+    padding: 10px 0px;
     display: flex;
     justify-content: space-around;
     align-items: center;
