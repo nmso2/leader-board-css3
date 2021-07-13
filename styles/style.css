@@ -51,13 +51,11 @@ nav a {
 .icon{
     display: flex;
     align-items: center;
-    margin-right: 20px;
 
 }
 .profile{
     display: flex;
     align-items: center;
-    margin-right: 80px;
 }
 
 /* top players style */
@@ -186,10 +184,11 @@ nav a {
         .course{
           margin-bottom: 30px;
         }
-        .nav{
-          width: 100%;
+        nav{
+            position: absolute;
+            right: 0;
+            top: 0;
         }
-        
         
 }
 
