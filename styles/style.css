@@ -186,6 +186,9 @@ nav a {
         .course{
           margin-bottom: 30px;
         }
+        .nav{
+          width: 100%;
+        }
         
         
 }
